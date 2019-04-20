@@ -1,5 +1,6 @@
 {
-  "name": "app_gestion_ressources_v0",
+  "name": "ReactJS-ContactManagement",
+  "author": "ZEGLAMI ABDELHAMID",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
